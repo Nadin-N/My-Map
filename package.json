@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nadin-n/my-map.git"
+    "url": "git+https://github.com/Nadin-N//my-map.git"
   },
   "keywords": [],
-  "author": "Nadin",
+  "author": "NadinSeverin <nadinlikes2012@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nadin-n/my-map/issues"
+    "url": "https://github.com/Nadin-N//my-map/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
